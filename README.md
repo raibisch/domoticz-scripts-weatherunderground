@@ -9,3 +9,7 @@ Because of API limit's of Weather Underground, the script will upload every 5 mi
 
 To easy setup: Download and edit script_time_wu.lua </br>
 Replace STATION_ID, STATION_PASSWORD and one of the sensors by name (After commentline Sensor Settings). </br>
+
+by Raibisch:
+works perfect 2022-06-19
+
